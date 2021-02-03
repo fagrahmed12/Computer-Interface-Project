@@ -1,6 +1,7 @@
-# ConrolFanByUsingGUI-TempSensor
+### ConrolFanByUsingGUI-TempSensor
 By using the desktop app, using the C language, you can control the operation of the fan and increase its speed when the temperature increases
-The aim of this project is to design a temperature controlled fan using microcontroller,
+
+## The aim of this project is to design a temperature controlled fan using microcontroller,
 in which the fan is automatically turned ON or OFF according to the temperature. 
 The LM35 temperature sensor will give continuous analog output corresponding to the temperature sensed by it.
 This analog signal is given to the ADC, which converts the analog values to digital values.
@@ -11,7 +12,7 @@ If the temperature exceeds more than 50 deg Celsius (as per the code), the micro
 If the temperature drops below 40 deg Celsius (as per the code).
 
 
-The aim of this project is to design a temperature controlled fan using microcontroller,
+## The aim of this project is to design a temperature controlled fan using microcontroller,
 in which the fan is automatically turned ON or OFF according to the temperature. 
 The LM35 temperature sensor will give continuous analog output corresponding to the temperature sensed by it.
 This analog signal is given to the ADC, which converts the analog values to digital values.
